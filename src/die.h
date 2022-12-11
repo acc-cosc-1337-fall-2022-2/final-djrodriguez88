@@ -2,6 +2,7 @@
 #include <iostream>
 #include<cstdlib>
 #include <vector>
+#include <time.h>
 
 using
     std::vector,

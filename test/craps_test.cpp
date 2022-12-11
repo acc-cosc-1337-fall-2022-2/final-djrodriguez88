@@ -6,9 +6,10 @@ TEST_CASE("Verify Test Configuration", "verification") {
 	REQUIRE(true == true);
 }
 
-
+ 
 TEST_CASE("Verify dice rolls")
 {
+    srand (time(NULL));
     Die dice;
     for(int i = 0; i < 10; i++)
     {
@@ -18,5 +19,7 @@ TEST_CASE("Verify dice rolls")
         REQUIRE(diceRoll < 7);
         REQUIRE(diceRoll > 0);
     }
+
+
 
 }
