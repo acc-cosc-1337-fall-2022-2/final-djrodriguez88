@@ -1,0 +1,12 @@
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/CMakeFiles/test.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/src/CMakeFiles/craps_library.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/src/CMakeFiles/craps_exe.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/src/CMakeFiles/test.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/src/CMakeFiles/edit_cache.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/src/CMakeFiles/rebuild_cache.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/test/CMakeFiles/craps_tests.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/test/CMakeFiles/test.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+C:/Users/DJRod/CLionProjects/final-djrodriguez88/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
