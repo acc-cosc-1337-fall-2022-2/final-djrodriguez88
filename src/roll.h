@@ -4,7 +4,6 @@
 
 class Roll{
 public:
-    Roll(){}
     Roll(Die& dice1, Die& dice2)
 
     void roll_die();
